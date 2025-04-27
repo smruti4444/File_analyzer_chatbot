@@ -1,5 +1,4 @@
 # File_analyzer_chatbot
-# You will need to install libraries to run this project prorperly 
 
 # Install following libraries using pip install command in terminal
 
@@ -16,3 +15,5 @@
 #requests → to interact with the OpenRouter AI API
 
 # You have to make a folder name {uploads} in the project like static and templates folder
+
+# Make your openrouter api key and put the key in main.py file variable name openrouter_api_key 
